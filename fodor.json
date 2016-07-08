@@ -3,8 +3,17 @@
   "installpath": "/tmp/mattermost",
   "provisioner": "provisioner.sh",
   "text": {
+    "complete": "You should configure SMTP now, and start inviting your team"
   },
   "links": [
+    {
+      "title": "Setup your Mattermost",
+      "url": "http://{{DOMAIN}}"
+    },
+    {
+      "title": "Configure SMTP/Email",
+      "url": "http://{{DOMAIN}}/admin_console/notifications/email"
+    }
   ],
   "size": {
     "suggested": "512mb",
