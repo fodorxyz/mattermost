@@ -10,7 +10,7 @@
     "suggested": "512mb",
     "required": "512mb"
   },
-  "distro": "ubuntudocker",
+  "distro": "docker",
   "description": "Mattermost is an open source, self-hosted Slack-alternative",
   "keywords": ["fodor", "slack", "mattermost", "chat", "irc", "jabber"],
   "homepage": "http://www.mattermost.org/",
