@@ -1,0 +1,19 @@
+{
+  "name": "fodorxyz/mattermost",
+  "installpath": "/tmp/mattermost",
+  "provisioner": "provisioner.sh",
+  "text": {
+  },
+  "links": [
+  ],
+  "size": {
+    "suggested": "512mb",
+    "required": "512mb"
+  },
+  "distro": "ubuntudocker",
+  "description": "Mattermost is an open source, self-hosted Slack-alternative",
+  "keywords": ["fodor", "slack", "mattermost", "chat", "irc", "jabber"],
+  "homepage": "http://www.mattermost.org/",
+  "inputs": [
+  ]
+}
