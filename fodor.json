@@ -23,7 +23,7 @@
   "description": "Mattermost is an open source, self-hosted Slack-alternative",
   "keywords": ["fodor", "slack", "mattermost", "chat", "irc", "jabber"],
   "homepage": "http://www.mattermost.org/",
-  "image": "http://www.mattermost.org/wp-content/uploads/2015/09/20160315_v210.png",
+  "image": "https://www.mattermost.org/wp-content/uploads/2015/09/20160315_v210.png",
   "inputs": [
   ]
 }
