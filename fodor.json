@@ -4,7 +4,7 @@
   "provisioner": "provisioner.sh",
   "text": {
     "complete": "You should configure SMTP now, and start inviting your team",
-    "failed": "Sorry about that, please add a GitHub issue"
+    "failed": "Sorry about that, please add a GitHub issue - test {{DOMAIN}} to see whether it works"
   },
   "links": [
     {
