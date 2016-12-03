@@ -3,7 +3,8 @@
   "installpath": "/tmp/mattermost",
   "provisioner": "provisioner.sh",
   "text": {
-    "complete": "You should configure SMTP now, and start inviting your team"
+    "complete": "You should configure SMTP now, and start inviting your team",
+    "failed": "Sorry about that, please add a GitHub issue"
   },
   "links": [
     {
